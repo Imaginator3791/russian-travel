@@ -3,7 +3,28 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
- */
+*/
 
-    font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
+ font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   }
+
+.font_inter_black {
+  font-family: Inter;
+  font-size: 48px;
+  line-height: 36px;
+  font-weight: 900;
+}
+
+.font_inter_bold {
+  font-family: Inter;
+  font-size: 36px;
+  line-height: 24px;
+  font-weight: 700;   
+}
+
+.font_inter_regular {
+  font-family: Inter;
+  font-size: 24px;
+  line-height: 18px;
+  font-weight: 400;
+}
