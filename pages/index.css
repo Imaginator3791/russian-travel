@@ -2,7 +2,14 @@
 @import url(../vendor/normalize.css);
 
 /* ниже импорт шрифтов inter */
-@import url(../fonts/inter.css);
+@import url(../vendor/fonts/inter.css);
 
 /* ниже описание классов page */
 @import url(../blocks/page/page.css);
+
+/* ниже описание классов header */
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang-link/header__lang-link.css);
+@import url(../blocks/header/__lang-link/header__lang-link_en.css);
+@import url(../blocks/header/__lang-link/header__lang-link_ru.css);
