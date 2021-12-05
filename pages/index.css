@@ -1,0 +1,8 @@
+/* ниже импорт normalize.css */
+@import url(../vendor/normalize.css);
+
+/* ниже импорт шрифтов inter */
+@import url(../fonts/inter.css);
+
+/* ниже описание классов page */
+@import url(../blocks/page/page.css);
