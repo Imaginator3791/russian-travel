@@ -7,7 +7,7 @@ background: #2A2C2F;
 color: #fff;
 height: 6871px;
 margin: 0 auto;
-padding: 28px 48px 24px;
+/*padding: 28px 48px 24px;*/
 
 
 
@@ -15,6 +15,7 @@ padding: 28px 48px 24px;
  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   }
 
+/*
 .font_inter_black {
   font-family: Inter;
   font-size: 48px;
@@ -38,3 +39,4 @@ padding: 28px 48px 24px;
   font-weight: 400;
   color: #fff;
 }
+*/
