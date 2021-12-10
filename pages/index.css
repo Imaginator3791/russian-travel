@@ -1,3 +1,5 @@
+
+
 /* ниже импорт normalize.css */
 @import url(../vendor/normalize.css);
 
@@ -7,9 +9,33 @@
 /* ниже описание классов page */
 @import url(../blocks/page/page.css);
 
+/* ниже описание классов page */
+@import url(../blocks/logo/logo.css);
+
 /* ниже описание классов header */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__lang/header__lang.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
-@import url(../blocks/header/__lang-link/header__lang-link_en.css);
-@import url(../blocks/header/__lang-link/header__lang-link_ru.css);
+@import url(../blocks/header/__lang-link/_active/header__lang-link_active.css);
+
+/* ниже описание классов lead */
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__title/lead__title.css);
+@import url(../blocks/lead/__subtitle/lead__subtitle.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__caption/lead__caption.css);
+
+/* ниже описание классов cover */
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__background/cover__background.css);
+
+
+/* ниже описание классов footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);

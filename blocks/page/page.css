@@ -1,42 +1,15 @@
 .page {
-display: flex;
-flex-direction: column;
-max-width: 1280px;
-min-width: 320px;
-background: #2A2C2F;
-color: #fff;
-height: 6871px;
-margin: 0 auto;
-/*padding: 28px 48px 24px;*/
-
-
-
-
- font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
-  }
-
-/*
-.font_inter_black {
-  font-family: Inter;
-  font-size: 48px;
-  line-height: 36px;
-  font-weight: 900;
-  color: #fff;
-}
-
-.font_inter_bold {
-  font-family: Inter;
-  font-size: 36px;
-  line-height: 24px;
-  font-weight: 700;
-  color: #fff;   
-}
-
-.font_inter_regular {
-  font-family: Inter;
-  font-size: 24px;
-  line-height: 18px;
+  font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   font-weight: 400;
   color: #fff;
-}
-*/
+  background: #2A2C2F;  
+  max-width: 1280px;
+  min-width: 320px;  
+  /*display: flex;
+  flex-direction: column;*/
+  margin: 0 auto;
+  padding: 16px 0 24px;
+  /*
+  padding-top: 16px;
+  padding-bottom: 24px;*/
+  }
