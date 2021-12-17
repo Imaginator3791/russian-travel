@@ -1,23 +1,51 @@
 # Проект: Путешествие по России
 
-### Обзор
-* Интро
-* Figma
-* Картинки
 
-**Интро**
+![описание проекта](./images/readme-pict.jpg)
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
 
-**Figma**
+***
+###При написании проекта использовались технологии:
+HTML
+CSS
+Flex-box
+Flex-grig
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
+***
 
-**Картинки**
+Web-ссылка к проекту:
 
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
+Зеркало проекта: https://3rt.ulam.ru/
 
-Удачи!
+***
+
+###Проект включает в себя иллюстрации и текстовые описания:
+
+[Куршская коса] http://park-kosa.ru
+
+[Кольский] https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy
+
+[Алтай] https://www.facebook.com/vera.bashmakova/posts/10156011613718822
+
+[Зимний Байкал] https://vk.com/baikalmile
+
+[Карелия] http://vodlozero.ru
+
+[До Байкала на собаках] https://stampsy.com/na-elektrichkakh-do-baikala
+
+***
+
+###В проекте использутся ссылки на интерактивные сервисы:
+
+[ Карты ] https://yandex.ru/maps
+[ Погода ]https://yandex.ru/pogoda
+[ Расписание ] https://rasp.yandex.ru
+[ Календарь ]https://calendar.yandex.ru
+[ Путешествия ]https://travel.yandex.ru
+
+***
+
+##Информация о платформе и разработчике
+Платформа: [Яндекс-Практикум](https://practicum.yandex.ru/)
+
+Разработчик:[Уланов Михаил](mailto:imaginator@yandex.ru)

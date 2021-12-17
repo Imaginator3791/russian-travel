@@ -5,10 +5,14 @@
   font-weight: 400;
   color: #fff;
   text-decoration-line: none;
+  transition: .2s linear;
 }
 
+.header__lang-link:hover {
+  opacity: .7;
+}
 
-@media screen and (max-width: 568px){
+@media screen and (max-width: 767px){
   .header__lang-link {
     font-size: 18px;
     line-height: 20px;

@@ -6,9 +6,14 @@
   color: #fff;
   text-decoration-line: underline;
   padding-right: 18px;
+  transition: .2s linear;
 }
 
-@media screen and (max-width: 568px){
+.header__lang-link_active:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 767px){
   .header__lang-link_active {
     font-size: 18px;
     line-height: 20px;
