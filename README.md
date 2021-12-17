@@ -2,7 +2,7 @@
 
 
 
-![описание проекта](./images/readme-pic.png)
+![описание проекта](./images/readme_pict.jpg)
 
 
 ***
