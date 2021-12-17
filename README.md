@@ -7,10 +7,10 @@
 
 ***
 ###При написании проекта использовались технологии:
-HTML
-CSS
-Flex-box
-Flex-grig
+HTML, 
+CSS, 
+Flex-box, 
+Flex-grig.
 
 ***
 
