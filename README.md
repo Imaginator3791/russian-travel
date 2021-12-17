@@ -1,7 +1,7 @@
 # Проект: Путешествие по России
 
 
-![описание проекта](./images/readme-pict.jpg)
+![описание проекта](./images/readme_pict.jpg)
 
 
 ***
@@ -13,7 +13,7 @@ Flex-grig
 
 ***
 
-Web-ссылка к проекту:
+Web-ссылка к проекту: https://imaginator3791.github.io/russian-travel/index.html
 
 Зеркало проекта: https://3rt.ulam.ru/
 
