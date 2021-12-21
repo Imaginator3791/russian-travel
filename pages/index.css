@@ -6,6 +6,9 @@
 @import url(../vendor/fonts/inter.css);
 
 /* ниже описание классов page */
+@import url(../blocks/body/body.css);
+
+/* ниже описание классов page */
 @import url(../blocks/page/page.css);
 
 /* ниже описание классов page */
